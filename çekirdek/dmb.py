@@ -1,6 +1,6 @@
-import .dosya as dys
+import dosya.okuma as okm
 
 def calıstır():
-  yz = dys.dma_okuma("","dmb")
+  yz = okm.dma_okuma("","dmb")
   print(yz)
 
