@@ -6,5 +6,5 @@ def run():
 
   a,b,c,d = pre.dmb_perception(yz)
 
-  print(a,b,c,d)
+
 
