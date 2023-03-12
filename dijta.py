@@ -1,3 +1,3 @@
-import çekirdek.dmb as dmb
+import core.dmb as dmb
 
-dmb.calıstır()
+dmb.run()
